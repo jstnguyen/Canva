@@ -1,7 +1,7 @@
 # Canva
 Linked are selected Canva projects from jobs, internships, and more.
 
-## The Rodney Pitch Deck
+## The Rodney Pitch Decks
 
 ## Sigma Phi Epsilon Recruitment Materials
 
