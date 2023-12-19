@@ -12,6 +12,9 @@ Linked are selected Canva projects from jobs, internships, and more.
 
 ## Community Advisor Programming Materials
 [Board Game Blowout!](https://www.canva.com/design/DAFu789AFQ0/knsLYn--bYkI4z_8af4I3w/view?utm_content=DAFu789AFQ0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [Mocktail & Mingle](https://www.canva.com/design/DAFu789AFQ0/knsLYn--bYkI4z_8af4I3w/view?utm_content=DAFu789AFQ0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [Laundry Service](https://www.canva.com/design/DAFu8I2JxjQ/QBMaTAdLFfQ1BsGIHbeChQ/view?utm_content=DAFu8I2JxjQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [It Takes a Village](https://www.canva.com/design/DAFu8EjZ5Qs/lTvf4C1FXci2dV1-32W8ew/view?utm_content=DAFu8EjZ5Qs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
