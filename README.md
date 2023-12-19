@@ -1,8 +1,8 @@
 # Canva
-Linked are selected Canva projects from jobs, internships, and more.
+This repository contains selected Canva projects from various endeavors including jobs, internships, and more.
 
 ## The Rodney Pitch Decks
-[The Rodney Rotation 1 Presentation](https://www.canva.com/design/DAF3XyOGuaU/8_2sFc-SIZxxyu4gR7Z-sA/view?utm_content=DAF3XyOGuaU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [The Rodney Rotation 1 Presentation](https://www.canva.com/design/DAF3XyOGuaU/8_2sFc-SIZxxyu4gR7Z-sA/view?utm_content=DAF3XyOGuaU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 [The Rodney Rotation 2 Presentation](https://www.canva.com/design/DAF3X7HkQN8/HafFkCZqfB-fD4ctSoBD4g/view?utm_content=DAF3X7HkQN8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
